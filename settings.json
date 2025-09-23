@@ -1,0 +1,5 @@
+{
+  "python.defaultInterpreterPath": "/Users/camillarodrigues/.pyenv/versions/sfsnow-3.9/bin/python",
+  "python.analysis.venvPath": "/Users/camillarodrigues/.pyenv/versions",
+  "python.analysis.venv": "sfsnow-3.9"
+}
